@@ -19,7 +19,7 @@
 
 ### Решение 
 ### Получилась такая ссылка на dockerhub
-### ![](https://hub.docker.com/repository/docker/berezhok1988/custom-nginx/general)
+### https://hub.docker.com/repository/docker/berezhok1988/custom-nginx/general
 ### Скачать образ docker pull berezhok1988/custom-nginx:1.0.0
 ### Для запуска ввести команду docker run -d -p 80:80 berezhok1988/custom-nginx:1.0.0
 
